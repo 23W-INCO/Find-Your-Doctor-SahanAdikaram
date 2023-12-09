@@ -13,7 +13,7 @@ In order to make finding and scheduling healthcare appointments easier, I am wor
 
 
 
->Here is the Page for making appointments 
+>Here is the Page for making appointments (still developing)
 ![2023-12-09 (2)](https://github.com/SahanAdikaram/Find-Your-Doctor-/assets/116548418/e2d0dc22-5f8f-4b67-9f66-76973f80bc65)
 
 <b>*Following the patient's submission of data, the information will be exported to an Excel file (for particular medical services), and the option for the doctor to log in and receive an instant SMS alert is still being developed. However, logging in is an option for patients to make the system more convenient and safe. Additionally, the patient's route of travel, methods for reaching their destination, and other facilities still developing*</b>
